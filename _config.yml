@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
+title: Example Site Using GitHub Pages
+header_page: 
+  - about.md
